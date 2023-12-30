@@ -53,6 +53,13 @@
 
 我选择的是「模拟地铁售票系统」，仓库👉 [MetroTicketingSystem](https://github.com/MaxwellJay256/MetroTicketingSystem)。
 
+
+> by [@Longlin li](https://github.com/longlin10086), 2023.12
+
+选择「 三国杀 」的同学可以参考👉  [KingdomCard](https://github.com/chenxijun/KingdomCard)
+
+项目整体采用 C/S 架构，能实现局域网内联机。前端使用 QT6 作为 UI 框架，后端采用 Modern C++ 进行编写。
+
 ### 组队
 
 课程要求 1-2 人一个小组。
