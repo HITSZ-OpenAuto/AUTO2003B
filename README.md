@@ -41,7 +41,7 @@
 - 本课程与教师基本无关。结题答辩时的老师也是任意分配的。
 
 ## 攻略
-> 文 / [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
 
 这应该是自动化学生为数不多的参与软件开发的机会。
 
