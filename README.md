@@ -1,4 +1,4 @@
-# AUTO2003B - 创新训练课B
+# AUTO2003B - 创新训练课 B
 
 <!--
 1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
@@ -15,6 +15,7 @@
 ![大作业100%](https://img.shields.io/badge/大作业-100%25-wheat)
 
 ## 课程介绍（摘自教学大纲）
+
 本课程设计是在学生完成[高级语言程序设计](https://hoa.moe/docs/fresh-autumn/comp2021/)课程学习后进行的。
 学生通过本课程的实践，能进一步掌握高级语言程序设计基本概念，掌握基本的程序设计方法；
 通过设计一个完整的小型程序，给学生提供独立实践的机会，将课本上的理论知识和实际有机的结合起来，锻炼学生的分析解决实际问题的能力。
@@ -29,6 +30,7 @@
 夏季学期结束时需提交开题报告；成果最后在大一立项结题的同时验收，需提交结题报告。
 
 2022 级给出的选题有：
+
 - 学院职工管理信息管理系统
 - 学院学生信息管理系统
 - 模拟地铁自动售票系统
@@ -41,6 +43,7 @@
 - 本课程与教师基本无关。结题答辩时的老师也是任意分配的。
 
 ## 攻略
+
 > 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
 
 这应该是自动化学生为数不多的参与软件开发的机会。
@@ -69,6 +72,7 @@
 
 好在目前有不少基于 `C/C++` 的 GUI 开发框架可供选择，学习起来也不困难。
 以下是教学大纲中提到的 4 个。
+
 1. [EasyX](https://docs.easyx.cn/)：一个基于 `GDI+` 的图形库，比较古老了，使用简单，但是功能有限。（若想在 VS Code 配置 EasyX，可参考[此教程](https://github.com/Oliverzsa/visual-studio-code-set-easyx)）
 2. [Qt](https://www.qt.io/)：跨平台的 GUI 开发框架，功能强大，几乎可以做任何事情。并且你校学生证可以申请到 Qt 的教育许可证，解锁完整特性。
 3. [MFC(Microsoft Foundation Classes)](https://learn.microsoft.com/zh-cn/cpp/mfc/mfc-desktop-applications)：一组封装了 C++ 类库的 Windows 编程框架，优点是兼容从 Win95 至今的所有 Windows 操作系统，且运行效率非常高；缺点是开发效率低，并且只能在 Windows 上运行。
@@ -97,4 +101,4 @@ Qt 有自己的 IDE [Qt Creator](https://www.qt.io/product/development-tools)，
 
 - [novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System](https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System) 使用 C++ Qt6 实现图形化的模拟深圳地铁自动售票系统。
 
-- [Sieroy/Musnake](https://github.com/Sieroy/Musnake) 使用SDL2实现图形界面的、融合轻量音游玩法的贪吃蛇游戏。使用C++编写，编写时代码水平比较弱，望见谅。附有可玩demo，试运行前建议设置显卡全局FPS限制以降低消耗。
+- [Sieroy/Musnake](https://github.com/Sieroy/Musnake) 使用 SDL2 实现图形界面的、融合轻量音游玩法的贪吃蛇游戏。使用 C++编写，编写时代码水平比较弱，望见谅。附有可玩 demo，试运行前建议设置显卡全局 FPS 限制以降低消耗。
