@@ -1,0 +1,467 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2591,
+    "time": 1751765636,
+    "hash": "61db48f0dd77d240072227abfc588ed301809f94"
+  },
+  ".hoa/worktree.json": {
+    "size": 13941,
+    "time": 1751764255,
+    "hash": "1b362af74ec69435ca7d8901908444823bf0b883"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086049,
+    "hash": "c0bbc6b57fd7787735a0b81c8a72bd930da07b59"
+  },
+  "README.md": {
+    "size": 6370,
+    "time": 1751079351,
+    "hash": "2ab468a17afd1f78b89641b2a74e5caa2362fc7a"
+  },
+  "course_design/.gitkeep": {
+    "size": 0,
+    "time": 1737903656,
+    "hash": "6dc762d44f6ea6f671406980ffd137240e15801b"
+  },
+  "course_design/WKY/创新训练课B报告.docx": {
+    "size": 1369302,
+    "time": 1751079351,
+    "hash": "2ab468a17afd1f78b89641b2a74e5caa2362fc7a"
+  },
+  "course_design/WKY/答辩PPT_吴坤远.pptx": {
+    "size": 359525,
+    "time": 1751079351,
+    "hash": "2ab468a17afd1f78b89641b2a74e5caa2362fc7a"
+  },
+  "course_design/fish_game/Debug/fish_game.exe": {
+    "size": 155648,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/fish_game.exe.recipe": {
+    "size": 314,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/fish_game.ilk": {
+    "size": 1058268,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/fish_game.log": {
+    "size": 279,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/fish_game.pdb": {
+    "size": 5345280,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/fish_game.tlog/CL.command.1.tlog": {
+    "size": 2026,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/fish_game.tlog/CL.read.1.tlog": {
+    "size": 20706,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/fish_game.tlog/CL.write.1.tlog": {
+    "size": 412,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/fish_game.tlog/fish_game.lastbuildstate": {
+    "size": 191,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/fish_game.tlog/link.command.1.tlog": {
+    "size": 2302,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/fish_game.tlog/link.read.1.tlog": {
+    "size": 3056,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/fish_game.tlog/link.write.1.tlog": {
+    "size": 450,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/fish_game.vcxproj.FileListAbsolute.txt": {
+    "size": 127,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/main.obj": {
+    "size": 147410,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/main.obj.enc": {
+    "size": 151274,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/test.obj": {
+    "size": 20370,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/vc142.idb": {
+    "size": 437248,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Debug/vc142.pdb": {
+    "size": 167936,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/EAT.mp3": {
+    "size": 12384,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/FAIL.mp3": {
+    "size": 101784,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/NOPE.mp3": {
+    "size": 12864,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Release/fish_game.log": {
+    "size": 30319,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Release/fish_game.tlog/CL.command.1.tlog": {
+    "size": 2,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Release/fish_game.tlog/fish_game.lastbuildstate": {
+    "size": 156,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Release/fish_game.tlog/unsuccessfulbuild": {
+    "size": 0,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/Release/vc142.pdb": {
+    "size": 79872,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/VICTORY.mp3": {
+    "size": 145896,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/bg.jpg": {
+    "size": 364318,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/bg2.jpg": {
+    "size": 909341,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/bgm.mp3": {
+    "size": 2013320,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish1_l.jpg": {
+    "size": 946,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish1_r.jpg": {
+    "size": 1239,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish1bg_l.jpg": {
+    "size": 888,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish1bg_r.jpg": {
+    "size": 890,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish2_l.jpg": {
+    "size": 2816,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish2_r.jpg": {
+    "size": 3930,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish2bg_l.jpg": {
+    "size": 1841,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish2bg_r.jpg": {
+    "size": 2108,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish3_l.jpg": {
+    "size": 7314,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish3_r.jpg": {
+    "size": 4797,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish3bg_l.jpg": {
+    "size": 2930,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish3bg_r.jpg": {
+    "size": 2912,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish4_l.jpg": {
+    "size": 11384,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish4_r.jpg": {
+    "size": 6873,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish4bg_l.jpg": {
+    "size": 5133,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish4bg_r.jpg": {
+    "size": 4856,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish_game.sln": {
+    "size": 1407,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish_game.vcxproj": {
+    "size": 7047,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish_game.vcxproj.filters": {
+    "size": 945,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/fish_game.vcxproj.user": {
+    "size": 165,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/hippocampus_l.jpg": {
+    "size": 3183,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/hippocampus_r.jpg": {
+    "size": 4173,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/hippocampusbg_l.jpg": {
+    "size": 2259,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/hippocampusbg_r.jpg": {
+    "size": 2263,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/intro.jpg": {
+    "size": 15800,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/intro0.jpg": {
+    "size": 36772,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/intro1.jpg": {
+    "size": 17579,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/intro2.jpg": {
+    "size": 11026,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/main.cpp": {
+    "size": 24909,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/player1_l.jpg": {
+    "size": 31553,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/player1_r.jpg": {
+    "size": 25226,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/player1bg_l.jpg": {
+    "size": 12899,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/player1bg_r.jpg": {
+    "size": 12830,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/player2_l.jpg": {
+    "size": 2430,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/player2_r.jpg": {
+    "size": 2356,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/player2bg_l.jpg": {
+    "size": 1445,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/player2bg_r.jpg": {
+    "size": 1449,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/shark_l.jpg": {
+    "size": 17656,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/shark_r.jpg": {
+    "size": 25331,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/sharkbg_l.jpg": {
+    "size": 10919,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/fish_game/sharkbg_r.jpg": {
+    "size": 11486,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/psp/创新训练课B报告-psp.pdf": {
+    "size": 896058,
+    "time": 1751079351,
+    "hash": "2ab468a17afd1f78b89641b2a74e5caa2362fc7a"
+  },
+  "course_design/地铁站示例/Qt-创新训练题目3.zip": {
+    "size": 11359721,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/地铁站示例/项目展示答辩.zip": {
+    "size": 25151376,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "course_design/地铁站示例/黄继凡-创新训练课B报告.docx": {
+    "size": 1661801,
+    "time": 1701264826,
+    "hash": "c82791321be898486121ee794fedeca3d1c6084f"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1737903656,
+    "hash": "6dc762d44f6ea6f671406980ffd137240e15801b"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737903656,
+    "hash": "6dc762d44f6ea6f671406980ffd137240e15801b"
+  },
+  "slides/第1章 高级语言程序设计.pdf": {
+    "size": 2493096,
+    "time": 1701432197,
+    "hash": "9df0a75019383aa2bae098569169e323d679aa60"
+  },
+  "slides/第2章 可行性研究.pdf": {
+    "size": 906210,
+    "time": 1701432197,
+    "hash": "9df0a75019383aa2bae098569169e323d679aa60"
+  },
+  "slides/第3章 需求分析.pdf": {
+    "size": 824229,
+    "time": 1701432197,
+    "hash": "9df0a75019383aa2bae098569169e323d679aa60"
+  },
+  "slides/第4章 总体设计.pdf": {
+    "size": 192756,
+    "time": 1701432197,
+    "hash": "9df0a75019383aa2bae098569169e323d679aa60"
+  },
+  "slides/第5章 详细设计1.pdf": {
+    "size": 335343,
+    "time": 1701432197,
+    "hash": "9df0a75019383aa2bae098569169e323d679aa60"
+  },
+  "slides/第6章 实现.pdf": {
+    "size": 407224,
+    "time": 1701432197,
+    "hash": "9df0a75019383aa2bae098569169e323d679aa60"
+  },
+  "slides/第7章 维护.pdf": {
+    "size": 99194,
+    "time": 1701432197,
+    "hash": "9df0a75019383aa2bae098569169e323d679aa60"
+  },
+  "slides/课程设计题目.pdf": {
+    "size": 596010,
+    "time": 1701432197,
+    "hash": "9df0a75019383aa2bae098569169e323d679aa60"
+  },
+  "tag.txt": {
+    "size": 197,
+    "time": 1701427416,
+    "hash": "7ad216ad4ce8967145b819059cea82b2c55d7515"
+  }
+}
