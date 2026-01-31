@@ -1,23 +1,31 @@
-# 创新训练课 B
+course_name = "创新训练课 B"
+repo_type = "normal"
+course_code = "AUTO2003B"
 
-**课程代码:** AUTO2003B
+# 网络资源（电子书、网课等）
+[[online_resources]]
+title = "MaxwellJay256/MetroTicketingSystem"
+url = "https://github.com/MaxwellJay256/MetroTicketingSystem"
+description = "模拟地铁售票系统，有二进制成品和 demo。"
 
-## 在线资源
+[[online_resources]]
+title = "chenxijun/KingdomCard"
+url = "https://github.com/chenxijun/KingdomCard"
+description = "三国杀游戏。C/S 架构，支持局域网联机。前端 Qt6，后端 Modern C++。"
 
-- [MaxwellJay256/MetroTicketingSystem]([https://github.com/MaxwellJay256/MetroTicketingSystem](https://github.com/MaxwellJay256/MetroTicketingSystem))
-  模拟地铁售票系统，有二进制成品和 demo。
+[[online_resources]]
+title = "Simulate_Shenzhen_Subway_Ticketing_System"
+url = "https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System"
+description = "使用 C++ Qt6 实现图形化的模拟深圳地铁自动售票系统。"
 
-- [chenxijun/KingdomCard]([https://github.com/chenxijun/KingdomCard](https://github.com/chenxijun/KingdomCard))
-  三国杀游戏。C/S 架构，支持局域网联机。前端 Qt6，后端 Modern C++。
+[[online_resources]]
+title = "Sieroy/Musnake"
+url = "https://github.com/Sieroy/Musnake"
+description = "使用 SDL2 实现图形界面的、融合轻量音游玩法的贪吃蛇游戏。附有可玩 demo。"
 
-- [Simulate_Shenzhen_Subway_Ticketing_System]([https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System](https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System))
-  使用 C++ Qt6 实现图形化的模拟深圳地铁自动售票系统。
-
-- [Sieroy/Musnake]([https://github.com/Sieroy/Musnake](https://github.com/Sieroy/Musnake))
-  使用 SDL2 实现图形界面的、融合轻量音游玩法的贪吃蛇游戏。附有可玩 demo。
-
-## 课程评价
-
+# 核心课程评价区块
+[[course]]
+content = """
 课程设计是在学生完成高级语言程序设计课程学习后进行的。
 翻译：**自己动手制作一个程序**。
 
@@ -29,9 +37,11 @@
 - 贪吃蛇小游戏
 - 跳棋游戏
 - 简易三国杀游戏
+"""
+author = { name = "", link = "", date = "" }
 
-## 建议
-
+[[advice]]
+content = """
 这应该是自动化学生为数不多的参与软件开发的机会。
 
 选题
@@ -51,3 +61,5 @@
 
 IDE
 推荐使用 **Visual Studio**（MFC 或 C# 的最佳选择，也有 Qt 插件）或 **Qt Creator**。
+"""
+author = { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2023-12-01" }
