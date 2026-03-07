@@ -1,4 +1,6 @@
 # AUTO2003B - 创新训练课 B
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![大作业100%](https://img.shields.io/badge/大作业-100%25-wheat)
@@ -7,6 +9,9 @@
 夏季学期结束时需提交开题报告；成果最后在大一立项结题的同时验收，需提交结题报告。
 
 ## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
 
 - [MaxwellJay256/MetroTicketingSystem](https://github.com/MaxwellJay256/MetroTicketingSystem)：模拟地铁售票系统，有二进制成品和 demo。
 - [chenxijun/KingdomCard](https://github.com/chenxijun/KingdomCard)：三国杀游戏。C/S 架构，支持局域网联机。前端 Qt6，后端 Modern C++。
@@ -14,6 +19,9 @@
 - [Sieroy/Musnake](https://github.com/Sieroy/Musnake)：使用 SDL2 实现图形界面的、融合轻量音游玩法的贪吃蛇游戏。附有可玩 demo。
 
 ## 课程内容
+<!-- TOML-SECTION: title="课程内容" -->
+
+<!-- TOML-ITEM: id="item-课程内容-1" -->
 
 课程设计是在学生完成高级语言程序设计课程学习后进行的。
 翻译：**自己动手制作一个程序**。
@@ -29,6 +37,9 @@
 - 简易三国杀游戏
 
 ## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
+
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 这应该是自动化学生为数不多的参与软件开发的机会。
 
