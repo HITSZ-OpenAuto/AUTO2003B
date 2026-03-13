@@ -1,7 +1,6 @@
 course_name = "创新训练课 B"
-repo_type = "normal"
 course_code = "AUTO2003B"
-
+repo_type = "normal"
 description = """
 本课程与教师基本无关，结题答辩时的老师也是任意分配的。
 夏季学期结束时需提交开题报告；成果最后在大一立项结题的同时验收，需提交结题报告。
