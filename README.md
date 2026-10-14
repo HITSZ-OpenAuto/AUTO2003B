@@ -1,9 +1,5 @@
 # AUTO2003B - 创新训练课 B
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![大作业100%](https://img.shields.io/badge/大作业-100%25-wheat)
 
 本课程与教师基本无关，结题答辩时的老师也是任意分配的。
 夏季学期结束时需提交开题报告；成果最后在大一立项结题的同时验收，需提交结题报告。
